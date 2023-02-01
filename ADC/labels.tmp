@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>D:\AVRStudio\AVR projects\ADC</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\AVRStudio\AVR projects\ADC\ADC.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\AVRStudio\AVR projects\ADC\ADC.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\AVRStudio\AVR projects\ADC\ADC.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>41</LINE></RESET>
+  <ADC_INT><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>170</LINE></ADC_INT>
+  <LOOP><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>72</LINE></LOOP>
+  <Indic><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>77</LINE></Indic>
+  <Sot><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>81</LINE></Sot>
+  <dec_0><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>87</LINE></dec_0>
+  <Desyatka><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>91</LINE></Desyatka>
+  <dec_1><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>97</LINE></dec_1>
+  <NUM_TO_SEG><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>102</LINE></NUM_TO_SEG>
+  <CIF><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>192</LINE></CIF>
+  <NTS1><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>108</LINE></NTS1>
+  <NTS2><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>116</LINE></NTS2>
+  <NTS3><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>124</LINE></NTS3>
+  <sevseg><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>138</LINE></sevseg>
+  <ss1><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>140</LINE></ss1>
+  <Co><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>145</LINE></Co>
+  <Clock><FILE>D:\AVRStudio\AVR projects\ADC\ADC.asm</FILE><LINE>149</LINE></Clock>
+ </LABELS>
+</ASSEMBLER_INFO>

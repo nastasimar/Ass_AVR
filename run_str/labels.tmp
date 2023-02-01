@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>D:\AVRStudio\AVR projects\run_str</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\AVRStudio\AVR projects\run_str\run_str.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\AVRStudio\AVR projects\run_str\run_str.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\AVRStudio\AVR projects\run_str\run_str.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>40</LINE></RESET>
+  <TIM1_COMPA><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>225</LINE></TIM1_COMPA>
+  <ADC_INT><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>199</LINE></ADC_INT>
+  <LOOP><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>92</LINE></LOOP>
+  <DISPLAY><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>129</LINE></DISPLAY>
+  <loop1><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>94</LINE></loop1>
+  <CHANGE><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>97</LINE></CHANGE>
+  <NUM_TO_SEG><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>154</LINE></NUM_TO_SEG>
+  <sevseg><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>166</LINE></sevseg>
+  <DISPLAY_0><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>134</LINE></DISPLAY_0>
+  <DISPLAY_1><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>141</LINE></DISPLAY_1>
+  <DISPLAY_2><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>149</LINE></DISPLAY_2>
+  <CIF><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>231</LINE></CIF>
+  <NTS><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>162</LINE></NTS>
+  <start><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>170</LINE></start>
+  <C0><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>175</LINE></C0>
+  <clock><FILE>D:\AVRStudio\AVR projects\run_str\run_str.asm</FILE><LINE>179</LINE></clock>
+ </LABELS>
+</ASSEMBLER_INFO>

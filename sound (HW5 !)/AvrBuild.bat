@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "D:\AVRStudio\AVR projects\sound (HW5 not ready)\labels.tmp" -fI -W+ie -C V2E -o "D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.hex" -d "D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.obj" -e "D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.eep" -m "D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.map" "D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.asm"

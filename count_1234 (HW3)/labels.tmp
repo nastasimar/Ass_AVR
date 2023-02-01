@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>D:\AVRStudio\AVR projects\count_1234</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</FILE><LINE>50</LINE></RESET>
+  <EXT_INT0><FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</FILE><LINE>172</LINE></EXT_INT0>
+  <EXT_INT1><FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</FILE><LINE>184</LINE></EXT_INT1>
+  <LOOP><FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</FILE><LINE>69</LINE></LOOP>
+  <SEV_SEG><FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</FILE><LINE>151</LINE></SEV_SEG>
+  <DIG_MOVING><FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</FILE><LINE>85</LINE></DIG_MOVING>
+  <DELAY_500><FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</FILE><LINE>124</LINE></DELAY_500>
+  <L1><FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</FILE><LINE>128</LINE></L1>
+  <start><FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</FILE><LINE>153</LINE></start>
+  <C0><FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</FILE><LINE>158</LINE></C0>
+  <clock><FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</FILE><LINE>162</LINE></clock>
+  <DATA_BYTE><FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</FILE><LINE>196</LINE></DATA_BYTE>
+  <DATA_WORD><FILE>D:\AVRStudio\AVR projects\count_1234\count_1234.asm</FILE><LINE>198</LINE></DATA_WORD>
+ </LABELS>
+</ASSEMBLER_INFO>

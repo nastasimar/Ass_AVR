@@ -1,0 +1,54 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>D:\AVRStudio\AVR projects\timer_keyboard (control work)</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>57</LINE></RESET>
+  <TIM2_OVF><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>376</LINE></TIM2_OVF>
+  <SEV_SEG><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>355</LINE></SEV_SEG>
+  <LOOP><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>119</LINE></LOOP>
+  <start_loop><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>121</LINE></start_loop>
+  <wait_for_jail><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>184</LINE></wait_for_jail>
+  <DELAY_50><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>334</LINE></DELAY_50>
+  <one><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>198</LINE></one>
+  <two><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>210</LINE></two>
+  <three><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>222</LINE></three>
+  <four><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>234</LINE></four>
+  <five><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>246</LINE></five>
+  <six><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>258</LINE></six>
+  <seven><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>270</LINE></seven>
+  <cont_seven><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>159</LINE></cont_seven>
+  <eight><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>282</LINE></eight>
+  <nine><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>294</LINE></nine>
+  <star><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>319</LINE></star>
+  <zero><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>306</LINE></zero>
+  <jail><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>323</LINE></jail>
+  <L1><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>337</LINE></L1>
+  <Num_to_Seg><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>343</LINE></Num_to_Seg>
+  <NUMBERS><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>421</LINE></NUMBERS>
+  <NTS><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>351</LINE></NTS>
+  <start><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>357</LINE></start>
+  <C0><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>362</LINE></C0>
+  <clock><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>366</LINE></clock>
+  <TIM2_OVF_OUT><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>415</LINE></TIM2_OVF_OUT>
+  <TIM2_OVF_RING><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>409</LINE></TIM2_OVF_RING>
+  <DATA_BYTE><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>423</LINE></DATA_BYTE>
+  <DATA_WORD><FILE>D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm</FILE><LINE>425</LINE></DATA_WORD>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "D:\AVRStudio\AVR projects\timer_keyboard (control work)\labels.tmp" -fI -W+ie -C V2E -o "D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.hex" -d "D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.obj" -e "D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.eep" -m "D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.map" "D:\AVRStudio\AVR projects\timer_keyboard (control work)\timer_keyboard.asm"

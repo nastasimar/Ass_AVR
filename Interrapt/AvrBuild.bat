@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\79315\Desktop\Microchip\Interrapt\labels.tmp" -fI -W+ie -C V2E -o "C:\Users\79315\Desktop\Microchip\Interrapt\interrapt.hex" -d "C:\Users\79315\Desktop\Microchip\Interrapt\interrapt.obj" -e "C:\Users\79315\Desktop\Microchip\Interrapt\interrapt.eep" -m "C:\Users\79315\Desktop\Microchip\Interrapt\interrapt.map" "C:\Users\79315\Desktop\Microchip\Interrapt\interrapt.asm"

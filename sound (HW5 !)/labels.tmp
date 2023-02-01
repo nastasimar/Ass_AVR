@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>D:\AVRStudio\AVR projects\sound (HW5 not ready)</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.asm</FILE><LINE>46</LINE></RESET>
+  <EXT_INT0><FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.asm</FILE><LINE>291</LINE></EXT_INT0>
+  <EXT_INT1><FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.asm</FILE><LINE>304</LINE></EXT_INT1>
+  <TIM2_OVF><FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.asm</FILE><LINE>274</LINE></TIM2_OVF>
+  <LOOP><FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.asm</FILE><LINE>72</LINE></LOOP>
+  <Delay_250ms><FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.asm</FILE><LINE>260</LINE></Delay_250ms>
+  <L1><FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.asm</FILE><LINE>264</LINE></L1>
+  <up><FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.asm</FILE><LINE>280</LINE></up>
+  <T_OUT><FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.asm</FILE><LINE>285</LINE></T_OUT>
+  <DATA_BYTE><FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.asm</FILE><LINE>322</LINE></DATA_BYTE>
+  <DATA_WORD><FILE>D:\AVRStudio\AVR projects\sound (HW5 not ready)\sound.asm</FILE><LINE>324</LINE></DATA_WORD>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "D:\AVRStudio\AVR projects\ADC_Int (HW7!)\labels.tmp" -fI -W+ie -C V2E -o "D:\AVRStudio\AVR projects\ADC_Int (HW7!)\ADC_int.hex" -d "D:\AVRStudio\AVR projects\ADC_Int (HW7!)\ADC_int.obj" -e "D:\AVRStudio\AVR projects\ADC_Int (HW7!)\ADC_int.eep" -m "D:\AVRStudio\AVR projects\ADC_Int (HW7!)\ADC_int.map" "D:\AVRStudio\AVR projects\ADC_Int (HW7!)\ADC_int.asm"
